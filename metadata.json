@@ -1,0 +1,5 @@
+{
+  "name": "BOM Master",
+  "description": "A professional Bill of Materials (BOM) management tool inspired by engineering workflows. Create modules, manage versions, and export data with AI-assisted component suggestions.",
+  "requestFramePermissions": []
+}
